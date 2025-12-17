@@ -1,0 +1,11 @@
+# Robots.txt for Asad Raza Portfolio
+# https://asad.is-a.dev
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://asad.is-a.dev/sitemap.xml
+
+# Crawl delay (optional, helps with server load)
+Crawl-delay: 1
